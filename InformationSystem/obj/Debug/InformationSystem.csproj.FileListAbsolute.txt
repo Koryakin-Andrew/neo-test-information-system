@@ -1,0 +1,330 @@
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ApplicationInsights.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\csc.exe
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\csc.exe.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\csc.rsp
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\csi.exe
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\csi.exe.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\csi.rsp
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.AppContext.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Console.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Diagnostics.Process.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.IO.Compression.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.IO.Pipes.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Security.AccessControl.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Security.Claims.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Threading.Thread.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.ValueTuple.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\vbc.exe
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\vbc.exe.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\vbc.rsp
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\VBCSCompiler.exe
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\InformationSystem.dll.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\InformationSystem.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\InformationSystem.pdb
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Antlr3.Runtime.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.Web.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.ApplicationInsights.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Newtonsoft.Json.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Net.Http.Formatting.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Helpers.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Http.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Http.WebHost.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Mvc.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Optimization.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Razor.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.WebPages.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.WebPages.Razor.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\WebGrease.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Antlr3.Runtime.pdb
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.Web.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.ApplicationInsights.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\Newtonsoft.Json.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Helpers.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Mvc.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Optimization.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Razor.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.WebPages.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.WebPages.Razor.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Net.Http.Formatting.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Http.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\System.Web.Http.WebHost.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.Helpers.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.Mvc.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.Optimization.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.Razor.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.WebPages.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.Http.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\obj\Debug\InformationSystem.csprojResolveAssemblyReference.cache
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\obj\Debug\InformationSystem.csproj.CoreCompileInputs.cache
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\obj\Debug\InformationSystem.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem\InformationSystem\obj\Debug\InformationSystem.pdb
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ApplicationInsights.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\csc.exe
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\csc.exe.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\csc.rsp
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\csi.exe
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\csi.exe.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\csi.rsp
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.AppContext.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Console.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Diagnostics.Process.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.IO.Compression.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.IO.Pipes.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Security.AccessControl.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Security.Claims.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Threading.Thread.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.ValueTuple.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Xml.XPath.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\vbc.exe
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\vbc.exe.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\vbc.rsp
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\VBCSCompiler.exe
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\InformationSystem.dll.config
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\InformationSystem.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\InformationSystem.pdb
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Antlr3.Runtime.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.Web.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.ApplicationInsights.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Newtonsoft.Json.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Net.Http.Formatting.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Helpers.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Http.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Http.WebHost.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Mvc.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Optimization.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Razor.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.WebPages.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.WebPages.Razor.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\WebGrease.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Antlr3.Runtime.pdb
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.Web.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.ApplicationInsights.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\Newtonsoft.Json.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Helpers.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Mvc.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Optimization.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Razor.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.WebPages.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.WebPages.Razor.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Net.Http.Formatting.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Http.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\System.Web.Http.WebHost.xml
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.Helpers.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.Mvc.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.Optimization.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.Razor.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.WebPages.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.Http.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\obj\Debug\InformationSystem.csprojResolveAssemblyReference.cache
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\obj\Debug\InformationSystem.csproj.CoreCompileInputs.cache
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\obj\Debug\InformationSystem.dll
+D:\Андрей\Documents\Visual Studio 2017\Projects\InformationSystem — копия\InformationSystem\obj\Debug\InformationSystem.pdb
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ApplicationInsights.config
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\csc.exe
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\csc.exe.config
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\csc.rsp
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\csi.exe
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\csi.exe.config
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\csi.rsp
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.AppContext.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Console.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Diagnostics.Process.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.IO.Compression.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.IO.Pipes.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Security.Claims.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Threading.Thread.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.ValueTuple.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Xml.XPath.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\vbc.exe
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\vbc.exe.config
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\vbc.rsp
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\VBCSCompiler.exe
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\InformationSystem.dll.config
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\InformationSystem.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\InformationSystem.pdb
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Antlr3.Runtime.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.Web.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.ApplicationInsights.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Newtonsoft.Json.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Diagnostics.DiagnosticSource.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Net.Http.Formatting.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Helpers.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Http.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Http.WebHost.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Mvc.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Optimization.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Razor.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.WebPages.Deployment.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.WebPages.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.WebPages.Razor.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\WebGrease.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Antlr3.Runtime.pdb
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.Web.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.ApplicationInsights.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\Newtonsoft.Json.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Diagnostics.DiagnosticSource.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Helpers.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Mvc.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Optimization.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Razor.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.WebPages.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.WebPages.Deployment.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.WebPages.Razor.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Net.Http.Formatting.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Http.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\System.Web.Http.WebHost.xml
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.Helpers.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.Mvc.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.Optimization.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.Razor.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.WebPages.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.Http.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\obj\Debug\InformationSystem.csprojResolveAssemblyReference.cache
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\obj\Debug\InformationSystem.csproj.CoreCompileInputs.cache
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\obj\Debug\InformationSystem.dll
+C:\1\gitLocalStorage\neo-test-information-system1\neo-test-information-system\InformationSystem\obj\Debug\InformationSystem.pdb
